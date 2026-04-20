@@ -10,8 +10,8 @@
 ## 🔗 Quick Links
 - **GitHub Release:** https://github.com/<your-user>/<sap1-project>/releases/tag/v1.0.0
 - **YouTube Demo (2–4 min):** https://youtu.be/<your-video-id>
-- **Final Report:** `docs/Final_Report_SAP1_Control_Sequencer.md` (or link if PDF)
-- **Commit used in video:** `<abc1234>`
+- 
+- 
 
 ---
 
